@@ -1,0 +1,51 @@
+
+#heading{
+    LINE-HEIGHT:1px;
+    top: 20px;
+  right: 450px;
+}
+#side{
+margin: 0;
+padding: 0;
+position: absolute;
+  top: 40px;
+  right: 450px;
+  line-height: 1px;
+}
+body{
+    background-color: #ffe6e6;
+}
+#two{
+    color:rgb(61, 61, 94);
+}
+#three{
+    color: chocolate;
+}
+#four{
+    color: chocolate;
+}
+#five{
+    color: chocolate;
+}
+#six{
+    color: chocolate;
+}
+#seven{
+    color: chocolate;
+}
+#eight{
+    color: chocolate;
+}
+#nine{
+    color: chocolate;
+}
+#ten{
+    color: chocolate;
+}
+#eleven{
+    color: chocolate;
+}
+body{
+    font-family: 'Gupter', serif;
+    font-size: medium;
+    }
